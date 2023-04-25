@@ -37,7 +37,7 @@ def alumnos():
 
 
     if len(alumnos) > 0:
-        print("\nListado de los alumnos que perdieron la matareia")
+        print("\nListado de los alumnos que perdieron la materia")
         print("Nombre\tPromedio")
         for alumno in alumnos:
             promedio = (alumno[1]+alumno[2]+alumno[3])/3
