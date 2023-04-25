@@ -3,8 +3,8 @@ import problema1
 
 '''
 Hasta ahora hemos
-trabajado conn variables
-que permiten alamcenar
+trabajado con variables
+que permiten almacenar
 un unico valor
 '''
 
@@ -60,4 +60,4 @@ if __name__ == '__main__':
 
     print()
 
-    problema1.suamar_5_enteros()
+    problema1.sumar_5_enteros()
